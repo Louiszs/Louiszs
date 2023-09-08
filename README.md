@@ -14,7 +14,7 @@ Olá! Sou um desenvolvedor de software back end com uma paixão profunda por jog
     <a href="mailto:eduardo.htluiz@outlook.com">
         <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
     </a>
-    <a href="eduardo.htlu@gmail.com">
+    <a href="mailto:eduardo.htlu@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </div>   
