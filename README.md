@@ -22,8 +22,8 @@ Olá! Sou um desenvolvedor de software back end com uma paixão profunda por jog
 <details>
 <summary><b>Status</b></summary><br>                                                                                   
 <p align="center">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Louiszs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Louiszs&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+<img aling="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=Louiszs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Louiszs&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </p>
 </details>
 
