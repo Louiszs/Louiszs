@@ -3,9 +3,10 @@
 🎮 Apaixonado por Jogos | 💻 Desenvolvedor Back End | 🎨 Pixel Art Enthusiast
 Olá! Sou um desenvolvedor de software back end com uma paixão profunda por jogos e arte. Combinando minha habilidade técnica em desenvolvimento de software com minha criatividade artística, busco constantemente criar experiências digitais envolventes e memoráveis.
 </p>
+<h2 align="center">Contato</h2>
+<a href="https://www.linkedin.com/in/eduardo-o-24156a250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 <details>
-<summary><b>Status</b></summary>
-<br>
+<summary><b>Status</b></summary><br>
 <p align="center">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Louiszs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Louiszs&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
