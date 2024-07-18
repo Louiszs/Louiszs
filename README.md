@@ -1,7 +1,8 @@
 ### Oi! Sou o Eduardo Oliveira👋
 
 <p align="center">
-🎮 Apaixonado por Jogos | 💻 Desenvolvedor Back End | 🎨 Pixel Art Enthusiast
+🎮 Apaixonado por Jogos | 💻 Desenvolvedor  com ênfase em Back End | 🎨 Pixel Art Enthusiast
+    
 Olá! Sou um desenvolvedor de software back end com uma paixão profunda por jogos e arte. Combinando minha habilidade técnica em desenvolvimento de software com minha criatividade artística, busco constantemente criar experiências digitais envolventes e memoráveis.
 </p>
 
