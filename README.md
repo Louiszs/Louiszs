@@ -1,9 +1,9 @@
 ### Oi! Sou o Eduardo Oliveira👋
 
 <p align="center">
-🎮 Apaixonado por Jogos | 💻 Desenvolvedor  com ênfase em Back End | 🎨 Pixel Art Enthusiast
+🎮 Apaixonado por Jogos | 💻 Desenvolvedor de software | 🎨 Pixel Art Enthusiast
     
-Olá! Sou um desenvolvedor de software back end com uma paixão profunda por jogos e arte. Combinando minha habilidade técnica em desenvolvimento de software com minha criatividade artística, busco constantemente criar experiências digitais envolventes e memoráveis.
+Acredito que o código é uma ferramenta para resolver problemas reais – não apenas para cumprir requisitos técnicos, mas para simplificar rotinas e transformar ideias abstratas em algo palpável. Seja automatizando um fluxo ou criando uma interface que torne uma tarefa complexa mais acessível, meu objetivo é que a tecnologia sirva como uma ferramenta facilitadora.
 </p>
 
 <h2 align="center">Contato</h2>
@@ -39,6 +39,8 @@ Olá! Sou um desenvolvedor de software back end com uma paixão profunda por jog
 <img align="center" alt="nodejs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img align="center" alt="nodejs" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />   
 <img align="center" alt="nodejs" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> 
-<img align="center" alt="springboot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
+<img style="height: 27px;" align="center" alt="springboot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
+<img style="height: 27px;" align="center" alt="springboot" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
                   
 </div>
