@@ -41,6 +41,7 @@ Acredito que o código é uma ferramenta para resolver problemas reais – não 
 <img align="center" alt="nodejs" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> 
 <img style="height: 27px;" align="center" alt="springboot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
 <img style="height: 27px;" align="center" alt="springboot" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img style="height: 27px;" align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
 
                   
 </div>
